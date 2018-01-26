@@ -1,0 +1,49 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+header{
+    display: inline-block;
+    height:100px;
+    width:100%;
+    background-color: grey;
+}
+
+.blue{
+    display:inline-block;
+    height:80px;
+    width:80px;
+    background: rgb(106, 106, 245);
+    margin: 10px 20px;
+}
+.divWidth{
+    height:100px;
+}
+
+.mainDiv{
+    height:200px;
+}
+
+.contentDiv{
+    width:80%;
+    height:80%;
+    margin:40px auto;
+}
+
+.contentDiv p {
+    font-size:30px;
+}
+.blue1Div{
+    background: rgb(106, 106, 245);
+}
+.blue2Div{
+    background: rgb(105, 211, 247);
+}
+
+.yellow1Div{
+    background: rgb(195, 248, 0);
+}
+
+.yellow2Div{
+    background: yellow;
+}
